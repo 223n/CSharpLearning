@@ -26,3 +26,5 @@
 * [010. プロパティのサクセス修飾子（回答）](questions/010-2.md)
 * [011. SQL Serverへの接続（問題）](questions/011-1.md)
 * [011. SQL Serverへの接続（回答）](questions/011-2.md)
+* [012. キャストと型変換（問題）](questions/012-1.md)
+* [012. キャストと型変換（回答）](questions/012-2.md)
