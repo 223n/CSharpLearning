@@ -10,5 +10,4 @@
 
 ### 参考
 
-
-
+* [private (C# リファレンス)](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/keywords/private)
