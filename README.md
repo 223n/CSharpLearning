@@ -22,3 +22,4 @@ description:  このBookについて
 | プロパティのサクセス修飾子       | [問題](questions/010-1.md) | [回答](questions/010-2.md) |
 | SQL Serverへの接続               | [問題](questions/011-1.md) | [回答](questions/011-2.md) |
 | キャストと型変換                 | [問題](questions/012-1.md) | [回答](questions/012-2.md) |
+| 世界協定時刻                     | [問題](questions/013-1.md) | [回答](questions/013-2.md) |
